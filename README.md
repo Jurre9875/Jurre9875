@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Jurre9875/Jurre9875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer student who enjoys building websites and learning new technologies.
 
-Here are some ideas to get you started:
+Most of my time goes into improving my coding skills, experimenting with web development, and building small projects to get better every day.  
+This GitHub profile is where I share the things I build, learn, and experiment with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I’m currently studying to become a software developer and I'm especially interested in web development.  
+I like creating clean and simple websites and learning new tools that help me become a better developer.
+
+---
+
+## 🛠 Tools & Tech
+
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🌟 A Bit About Me
+
+- 🎮 If I'm not coding, I'm probably gaming
+- 💻 I enjoy building websites and experimenting with code
+- 🎧 I almost always listen to music while coding
+- 📚 I like reading when I find a good book
+- 🍿 Movies and series are my go-to for relaxing
+- 🚀 I enjoy learning new things and improving step by step
