@@ -16,11 +16,27 @@ I like creating clean and simple websites and learning new tools that help me be
 
 ## 🛠 Tools & Tech
 
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
-- VS Code  
+Languages
+
+HTML, CSS, JavaScript
+
+PHP
+
+C# (basic knowledge)
+
+Frameworks & Libraries
+
+React.js (currently learning)
+
+Node.js (currently learning)
+
+Laravel (currently working on)
+
+Other Tools
+
+Git & GitHub
+
+VS Code
 
 ---
 
