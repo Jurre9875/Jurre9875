@@ -7,13 +7,6 @@ This GitHub profile is where I share the things I build, learn, and experiment w
 
 ---
 
-## 👨‍💻 About Me
-
-I’m currently studying to become a software developer and I'm especially interested in web development.  
-I like creating clean and simple websites and learning new tools that help me become a better developer.
-
----
-
 ## 🛠 Tools & Tech
 
 **Languages & Frameworks:**  
